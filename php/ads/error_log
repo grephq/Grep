@@ -1,0 +1,61 @@
+[02-Nov-2020 15:41:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:41:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:41:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:44:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:44:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:44:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:44:16 UTC] PHP Warning:  require(db_connect.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/ads/login.php on line 8
+[02-Nov-2020 15:44:16 UTC] PHP Fatal error:  require(): Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/ads/login.php on line 8
+[02-Nov-2020 15:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:45:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:46:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 3
+[02-Nov-2020 15:46:01 UTC] PHP Warning:  require(db_connect.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/ads/login.php on line 8
+[02-Nov-2020 15:46:01 UTC] PHP Fatal error:  require(): Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/ads/login.php on line 8
+[02-Nov-2020 16:12:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 2
+[02-Nov-2020 16:12:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/login.php on line 2
+[02-Nov-2020 16:37:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:37:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:40:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:40:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:43:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:44:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 50
+[02-Nov-2020 16:47:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:48:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:48:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:49:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:53:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 3
+[02-Nov-2020 16:54:29 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 9
+[02-Nov-2020 16:54:29 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:54:29 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:54:29 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 32
+[02-Nov-2020 16:54:49 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 9
+[02-Nov-2020 16:54:49 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:54:49 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:54:49 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 32
+[02-Nov-2020 16:55:37 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 9
+[02-Nov-2020 16:55:37 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:55:37 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:55:37 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 32
+[02-Nov-2020 16:57:55 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 9
+[02-Nov-2020 16:57:55 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:57:55 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 16:57:55 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 32
+[02-Nov-2020 17:17:38 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 9
+[02-Nov-2020 17:17:38 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 17:17:38 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 15
+[02-Nov-2020 17:17:38 UTC] PHP Notice:  Undefined index: fileToUpload in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 32
+[02-Nov-2020 17:25:25 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 44
+[02-Nov-2020 17:25:25 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 45
+[02-Nov-2020 17:25:25 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 46
+[02-Nov-2020 17:25:44 UTC] PHP Notice:  Only variables should be passed by reference in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 13
+[02-Nov-2020 17:29:56 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 50
+[02-Nov-2020 17:29:56 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 51
+[02-Nov-2020 17:29:56 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 52
+[02-Nov-2020 17:30:33 UTC] PHP Notice:  Only variables should be passed by reference in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 13
+[02-Nov-2020 18:36:43 UTC] PHP Notice:  Undefined index: email in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 4
+[02-Nov-2020 18:36:43 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 50
+[02-Nov-2020 18:36:43 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 51
+[02-Nov-2020 18:36:43 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 52
+[22-Dec-2020 07:17:10 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 50
+[22-Dec-2020 07:17:10 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 51
+[22-Dec-2020 07:17:10 UTC] PHP Notice:  Undefined index: image in /home/tomiwaco/public_html/grepworks/ads/uploadad.php on line 52

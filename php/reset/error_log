@@ -1,0 +1,50 @@
+[21-Apr-2021 19:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:38:02 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:38:05 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:38:27 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:38:42 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 19:39:52 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/PHPMailer-master/mail.php on line 14
+[21-Apr-2021 22:46:48 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 22:46:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:09:40 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:09:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:10:20 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:10:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:10:22 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:10:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:12:21 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[21-Apr-2021 23:12:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[22-Apr-2021 10:30:48 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[22-Apr-2021 10:30:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[22-Apr-2021 10:31:22 UTC] PHP Warning:  require_once(jwt/JWT.php): failed to open stream: No such file or directory in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[22-Apr-2021 10:31:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'jwt/JWT.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 8
+[22-Apr-2021 10:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/tomiwaco/public_html/grepworks/reset/forgotpassword.php on line 38
+[22-Apr-2021 10:50:45 UTC] PHP Notice:  Undefined variable: email in /home/tomiwaco/public_html/grepworks/reset/mail.php on line 24
+[22-Apr-2021 10:51:04 UTC] PHP Notice:  Undefined variable: email in /home/tomiwaco/public_html/grepworks/reset/mail.php on line 24
+[22-Apr-2021 11:00:32 UTC] PHP Notice:  Undefined variable: token in /home/tomiwaco/public_html/grepworks/reset/mail.php on line 19
+[22-Apr-2021 11:00:32 UTC] PHP Notice:  Undefined variable: email in /home/tomiwaco/public_html/grepworks/reset/mail.php on line 19
