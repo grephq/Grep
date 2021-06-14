@@ -65,14 +65,14 @@ class _SettingsState extends State<Settings> {
                     title: Text("How Grep works"),
                     trailing: Icon(Icons.code),
                     onTap: () {
-                    _launchURL("https://grep.com/");
+                    _launchURL("https://greperrands.com/");
                   },
                   ),
                   Divider(height:1.0),
                   ListTile(
                     title: Text("Contact Us"),
                     onTap: () {
-                      _launchURL("https://grep.com/contactus");
+                      _launchURL("https://greperrands.com/contact-us.html");
                     },
                     trailing: Image.asset("assets/phone.png", scale: 3.0,),
                   ),
@@ -81,7 +81,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Help Center (FAQs)"),
                     trailing: Image.asset("assets/info.png", scale: 3.0,),
                     onTap: () {
-                      _launchURL("https://grep.com/faq");
+                      _launchURL("https://greperrands.com");
                     },
                   ),
                   Divider(height:1.0),
@@ -89,7 +89,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Give us feedback"),
                     trailing: Image.asset("assets/feedback.png", scale: 3.0,),
                     onTap: () {
-                      _launchURL("https://grep.com/contactus");
+                      _launchURL("https://greperrands.com/contact-us.html");
                     },
                   ),
                   Divider(height:1.0),
@@ -113,7 +113,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Terms of Service"),
                     trailing: Icon(Icons.description),
                     onTap: () {
-                      _launchURL("https://grep.com/contactus");
+                      _launchURL("https://greperrands.com");
                     },
                   ),
                   Divider(height:1.0),
@@ -121,7 +121,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Privacy"),
                     trailing: Image.asset("assets/security.png", scale: 3.0,),
                     onTap: () {
-                      _launchURL("https://grep.com/privacy");
+                      _launchURL("https://greperrands.com");
                     },
                   ),
                   Divider(height:1.0),
