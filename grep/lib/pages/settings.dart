@@ -65,14 +65,14 @@ class _SettingsState extends State<Settings> {
                     title: Text("How Grep works"),
                     trailing: Icon(Icons.code),
                     onTap: () {
-                    _launchURL("https://greperrands.com/");
+                    _launchURL("https://greperrands.com/how-grep-works");
                   },
                   ),
                   Divider(height:1.0),
                   ListTile(
                     title: Text("Contact Us"),
                     onTap: () {
-                      _launchURL("https://greperrands.com/contact-us.html");
+                      _launchURL("https://greperrands.com/contact-us");
                     },
                     trailing: Image.asset("assets/phone.png", scale: 3.0,),
                   ),
@@ -81,7 +81,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Help Center (FAQs)"),
                     trailing: Image.asset("assets/info.png", scale: 3.0,),
                     onTap: () {
-                      _launchURL("https://greperrands.com");
+                      _launchURL("https://greperrands.com/help-center");
                     },
                   ),
                   Divider(height:1.0),
@@ -113,7 +113,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Terms of Service"),
                     trailing: Icon(Icons.description),
                     onTap: () {
-                      _launchURL("https://greperrands.com");
+                      _launchURL("https://greperrands.com/terms-of-service");
                     },
                   ),
                   Divider(height:1.0),
@@ -121,7 +121,7 @@ class _SettingsState extends State<Settings> {
                     title: Text("Privacy"),
                     trailing: Image.asset("assets/security.png", scale: 3.0,),
                     onTap: () {
-                      _launchURL("https://greperrands.com");
+                      _launchURL("https://greperrands.com/privacy");
                     },
                   ),
                   Divider(height:1.0),
