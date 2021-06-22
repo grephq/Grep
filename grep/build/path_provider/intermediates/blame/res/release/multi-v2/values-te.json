@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ENVY 15\\Documents\\tets\\files\\grep\\build\\path_provider\\intermediates\\res\\merged\\release\\values-te\\values-te.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ENVY 15\\.gradle\\caches\\transforms-2\\files-2.1\\c1971aee546e59b739b98b028060a6fe\\core-1.1.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ENVY 15\\Documents\\tets\\files\\grep\\build\\path_provider\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-te\\values-te.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ENVY 15\\.gradle\\caches\\transforms-2\\files-2.1\\c1971aee546e59b739b98b028060a6fe\\core-1.1.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

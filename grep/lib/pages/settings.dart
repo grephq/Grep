@@ -4,6 +4,7 @@ import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'dart:io' show Platform;
 
 
 class Settings extends StatefulWidget {
@@ -134,6 +135,18 @@ class _SettingsState extends State<Settings> {
                       await removeSharedData();
                       Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(builder: (context) => Start()), (route) => false);
                       
+                    },
+                  ),
+                  Divider(height:1.0),
+                  ListTile(
+                    title: Text("Rate the app"),
+                    onTap: () async{
+                      if(Platform.isAndroid){
+                        _launchURL("https://play.google.com");
+                      }
+                      if(Platform.isIOS){
+                        _launchURL("https://apple.com/app-store");
+                      }
                     },
                   ),
                   Divider(height:1.0),
