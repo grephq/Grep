@@ -140,22 +140,26 @@ class _ProfileState extends State<Profile> {
                                       context: context,
                                       builder: (_) => new AlertDialog(
                                         title: new Text("Edit Email"),
-                                        content: loading ? SizedBox(
-                                          height: 50.0,
-                                          width: 50.0,
-                                          child: Center(
-                                            child: LinearProgressIndicator(),
-                                          ),
-                                        ) : Form(
-                                          key: keyEmail,
-                                          child: TextFormField(
-                                            onChanged: (_email)=> email = _email,
-                                            controller: tecEmail,
-                                            validator: emailValidator,
-                                            cursorColor: Color.fromRGBO(237,47,89, 1),
-                                            keyboardType: TextInputType.text,
-                                            textCapitalization: TextCapitalization.words,
-                                          ),
+                                        content: StatefulBuilder(
+                                          builder: (context, setState) {
+                                            return loading ? SizedBox(
+                                              height: 50.0,
+                                              width: 50.0,
+                                              child: Center(
+                                                child: LinearProgressIndicator(),
+                                              ),
+                                            ) : Form(
+                                              key: keyEmail,
+                                              child: TextFormField(
+                                                onChanged: (_email)=> email = _email,
+                                                controller: tecEmail,
+                                                validator: emailValidator,
+                                                cursorColor: Color.fromRGBO(237,47,89, 1),
+                                                keyboardType: TextInputType.text,
+                                                textCapitalization: TextCapitalization.words,
+                                              ),
+                                            );
+                                          }
                                         ),
                                         actions: <Widget>[
                                           FlatButton(
@@ -225,22 +229,26 @@ class _ProfileState extends State<Profile> {
                                       context: context,
                                       builder: (_) => new AlertDialog(
                                         title: new Text("Edit Phone"),
-                                        content: loading ? SizedBox(
-                                          height: 50.0,
-                                          width: 50.0,
-                                          child: Center(
-                                            child: LinearProgressIndicator(),
-                                          ),
-                                        ) : Form(
-                                          key: keyPhone,
-                                          child: TextFormField(
-                                            onChanged: (_phone)=> phone = _phone,
-                                            controller: tecPhone,
-                                            validator: phoneNoValidator,
-                                            cursorColor: Color.fromRGBO(237,47,89, 1),
-                                            keyboardType: TextInputType.text,
-                                            textCapitalization: TextCapitalization.words,
-                                          ),
+                                        content: StatefulBuilder(
+                                          builder: (context, setState) {
+                                            return loading ? SizedBox(
+                                              height: 50.0,
+                                              width: 50.0,
+                                              child: Center(
+                                                child: LinearProgressIndicator(),
+                                              ),
+                                            ) : Form(
+                                              key: keyPhone,
+                                              child: TextFormField(
+                                                onChanged: (_phone)=> phone = _phone,
+                                                controller: tecPhone,
+                                                validator: phoneNoValidator,
+                                                cursorColor: Color.fromRGBO(237,47,89, 1),
+                                                keyboardType: TextInputType.text,
+                                                textCapitalization: TextCapitalization.words,
+                                              ),
+                                            );
+                                          }
                                         ),
                                         actions: <Widget>[
                                           FlatButton(
@@ -320,22 +328,26 @@ class _ProfileState extends State<Profile> {
                                       context: context,
                                       builder: (_) => new AlertDialog(
                                         title: new Text("Edit Address"),
-                                        content: loading ? SizedBox(
-                                          height: 50.0,
-                                          width: 50.0,
-                                          child: Center(
-                                            child: LinearProgressIndicator(),
-                                          ),
-                                        ) : Form(
-                                          key: keyAddress,
-                                          child: TextFormField(
-                                            onChanged: (_address)=> address = _address,
-                                            controller: tecAddress,
-                                            validator: validator,
-                                            cursorColor: Color.fromRGBO(237,47,89, 1),
-                                            keyboardType: TextInputType.text,
-                                            textCapitalization: TextCapitalization.words,
-                                          ),
+                                        content: StatefulBuilder(
+                                          builder: (context, setState) {
+                                            return loading ? SizedBox(
+                                              height: 50.0,
+                                              width: 50.0,
+                                              child: Center(
+                                                child: LinearProgressIndicator(),
+                                              ),
+                                            ) : Form(
+                                              key: keyAddress,
+                                              child: TextFormField(
+                                                onChanged: (_address)=> address = _address,
+                                                controller: tecAddress,
+                                                validator: validator,
+                                                cursorColor: Color.fromRGBO(237,47,89, 1),
+                                                keyboardType: TextInputType.text,
+                                                textCapitalization: TextCapitalization.words,
+                                              ),
+                                            );
+                                          }
                                         ),
                                         actions: <Widget>[
                                           FlatButton(
