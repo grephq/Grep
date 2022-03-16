@@ -24,6 +24,7 @@ dependencies:
   flutter_local_notifications: ^1.4.4+1
   random_string: ^2.1.0
   start_jwt: ^0.2.0
+  permission_handler: any
   cloud_firestore: ^0.14.0+2
   path_provider: ^1.6.18
   firebase_core: ^0.5.0
